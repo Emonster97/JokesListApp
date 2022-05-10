@@ -1,5 +1,5 @@
 # JokeWebApp
- A  simple joke writing app using CRUD, search features, and user authentication. 
+ A  simple joke writing app using CRUD, search features, and user authentication. This app uses ASP.NET Core and was built with Visual Studio.
 
 
 ## Demo
